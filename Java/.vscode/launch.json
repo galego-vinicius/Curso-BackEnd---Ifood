@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Variaveis",
+            "request": "launch",
+            "mainClass": "Variaveis",
+            "projectName": "Curso Java - Youtube_1c564b27"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Curso Java - Youtube_1c564b27"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "projectName": "Aula 5_17e3e433"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Aula 5_17e3e433"
+        },
+        {
+            "type": "java",
+            "name": "OlaMundo",
+            "request": "launch",
+            "mainClass": "OlaMundo",
+            "projectName": "Aula 5_17e3e433"
+        },
+        {
+            "type": "java",
+            "name": "argumentos",
+            "request": "launch",
+            "mainClass": "argumentos",
+            "projectName": "Aula 5_17e3e433"
+        }
+    ]
+}
