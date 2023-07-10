@@ -10,6 +10,7 @@ public class Main {
         petshop.tosar(passaro1);
         System.out.println(gato1.getEstadoDeEspirito());
         System.out.println(passaro1.getEstadoDeEspirito());
+         System.out.println(cachorro1.getEstadoDeEspirito());
 
 
     }
